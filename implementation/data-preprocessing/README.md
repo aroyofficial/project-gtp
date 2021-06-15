@@ -5,3 +5,4 @@
 - **terrorism.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1HJGX-C1YEd9wq1_yWzTNzyAeC3Ue1TWn?usp=sharing)**
 - **districtwise-crime.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1NjEUBhaBMAcz2ubQnY8kHYXfIseCrHZx?usp=sharing)** 
 - **auto-theft.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1JNcmOZ5Hwbhvh2rHtsbcWn9WKtFururI?usp=sharing)** 
+- **serious-fraud.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1t3_bMxtiEDqFa1xMQFCkl_vcZFEQB1lZ?usp=sharing)** 
