@@ -1,1 +1,11 @@
- 
+ # DATA ANALYSIS & VISUALIZATION
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2001%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2002%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2003%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2004%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2005%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2006%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2007%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2008%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2009%20Auto%20Theft%20Stolen%20District%20Wise.png)
+ ![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/image/2010%20Auto%20Theft%20Stolen%20District%20Wise.png)
