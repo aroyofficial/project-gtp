@@ -8,3 +8,7 @@
 - **serious-fraud.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1t3_bMxtiEDqFa1xMQFCkl_vcZFEQB1lZ?usp=sharing)** 
 - **hr-violation.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1IpHF07phflmGN7QnqMGnDF5Or42JbOEi?usp=sharing)** 
 - **murder.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1DIpYG6UgWFfz0mklZMR2CIAF86YAJ_-p?usp=sharing)** 
+- **cyber-crime.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1MJAbyk99Rn6q06igpsIQcPMRiNFSXRqN?usp=sharing)** 
+- **crime-against-women.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1HIGM8G6xfTrq9-UHj5rjixuuuKJy22xs?usp=sharing)** 
+- **police-housing.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/178cPQpM635fN_dwG8XByLwA6gpLu6IaW?usp=sharing)** 
+- **court-trial.ipynb - [Download Dataset Dependencies](https://drive.google.com/drive/folders/1vdA0Fkp8KYBzUF95ilPwRFwM34LpM57J?usp=sharing)** 
