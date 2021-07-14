@@ -36,7 +36,7 @@
 <p align = "justify">It is very hard to obtain the dataset in order to get accurate results from the model. Confidential datasets can be obtained from Government, if government will undertake our project.</p>
 
 <h3>Contacts</h3>
- <a align = "justify" href = "https://www.linkedin.com/in/mr-arijit-roy/" target="_blank" rel="noopener noreferrer">Arijit Roy @LinkedIn</a>
+<a align = "justify" href = "https://www.linkedin.com/in/mr-arijit-roy/" target="_blank" rel="noopener noreferrer">Arijit Roy @LinkedIn</a>
 | <a align = "justify" href = "https://www.linkedin.com/in/royarkaofficial/" target="_blank" rel="noopener noreferrer">Shayani Das @LinkedIn</a>
 | <a align = "justify" href = "https://www.linkedin.com/in/shayaniofficial/" target="_blank" rel="noopener noreferrer">Arkadeep Roy @LinkedIn</a>
 | <a align = "justify" href = "https://www.linkedin.com/in/ankitadofficial/" target="_blank" rel="noopener noreferrer">Ankita Datta @LinkedIn</a>
