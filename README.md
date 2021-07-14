@@ -24,4 +24,13 @@
   <li><b>Joblib : </b><p align = "justify">It is a set of tools to provide lightweight pipelining in Python. In particular: transparent disk-caching of functions and lazy re-evaluation (memoize pattern).</p></li>
 </ul>
 
-<h3></h3>
+<h3>Future Scopes</h3>
+<ul>
+  <li><b>GTP : </b><p align="justify">We can create a system which can predict the details of next Terrorist Attack.</p></li>
+  <li><b>Public Safety : </b> <p align="justify">GTP Software can ensure the public safety inorder to prevent the pre-determined terrorist attacks.</p></li>
+  <li><b>Support : </b><p align="justify">It will help our intelligence agencies as well as our administrations.</p></li>
+  <li><b>Less Cost : </b><p align="justify">It can be implemented in an affordable cost.</p></li>
+</ul>
+
+<h3>Challenges</h3>
+<p align = "justify">It is very hard to obtain the dataset in order to get accurate results from the model. Confidential datasets can be obtained from Government, if government will undertake our project.</p>
