@@ -5,10 +5,10 @@
 
 <h3>Tools and Resources</h3>
 <ul>
-  <li><b>GTD : </b><p align = "justify">The Global Terrorism Database (GTD)™ is the most comprehensive unclassified database of terrorist attacks in the world. The National Consortium for the Study of Terrorism and Responses to Terrorism (START) makes the GTD available via this site in an effort to improve understanding of terrorist violence, so that it can be more readily studied and defeated. The GTD is produced by a dedicated team of researchers and technical staff. The GTD is an open-source database, which provides information on domestic and international terrorist attacks around the world since 1970, and now includes more than 200,000 events. For each event, a wide range of information is available, including  the date and location of the incident, the weapons used, nature of the target, the number of casualties, and – when identifiable – the group or individual responsible. </p></li>
-  <li>NumPy :</li>
-  <li>Pandas :</li>
-  <li>Scikit Learn :</li>
+  <li><b>GTD : </b><p align = "justify">The Global Terrorism Database (GTD)™ is the most comprehensive unclassified database of terrorist attacks in the world. The National Consortium for the Study of Terrorism and Responses to Terrorism (START) makes the GTD available via this site in an effort to improve understanding of terrorist violence, so that it can be more readily studied and defeated. The GTD is produced by a dedicated team of researchers and technical staff. The GTD is an open-source database, which provides information on domestic and international terrorist attacks around the world since 1970, and now includes more than 200,000 events. For each event, a wide range of information is available, including  the date and location of the incident, the weapons used, nature of the target, the number of casualties, and – when identifiable – the group or individual responsible.</p></li>
+  <li><b>NumPy : </b><p align = "justify">It is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.</p></li>
+  <li><b>Pandas : </b><p align = "justify">It is a fast, powerful, flexible and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.</p></li>
+  <li><b>Scikit Learn : </b><p align = "justify">Scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.</p></li>
   <li>Maplotlib: </li>
   <li>Seaborn :</li>
   <li>Geopandas :</li>
