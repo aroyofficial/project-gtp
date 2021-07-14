@@ -1,4 +1,4 @@
-![alt text](https://github.com/aroyofficial/crime-analysis-project/blob/main/Images/cover_page.jpeg)
+![alt text](https://github.com/aroyofficial/PROJECT-GTP/blob/main/Images/project_gtp_cover.png)
 # Documentation
 
 <h3>Introduction</h3>
