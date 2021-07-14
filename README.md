@@ -34,3 +34,10 @@
 
 <h3>Challenges</h3>
 <p align = "justify">It is very hard to obtain the dataset in order to get accurate results from the model. Confidential datasets can be obtained from Government, if government will undertake our project.</p>
+
+<h3>Contacts</h3>
+- <p align = "justify" href = "https://www.linkedin.com/in/mr-arijit-roy/">Arijit Roy @LinkedIn</p>
+- <p align = "justify" href = "https://www.linkedin.com/in/royarkaofficial/">Shayani Das @LinkedIn</p>
+- <p align = "justify" href = "https://www.linkedin.com/in/shayaniofficial/">Arkadeep Roy @LinkedIn</p>
+- <p align = "justify" href = "https://www.linkedin.com/in/ankitadofficial/">Ankita Datta @LinkedIn</p>
+- <p align = "justify" href = "https://www.linkedin.com/in/soumoofficial/">Soumodip Ghosh @LinkedIn</p>
