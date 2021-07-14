@@ -9,9 +9,10 @@
   <li><b>NumPy : </b><p align = "justify">It is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.</p></li>
   <li><b>Pandas : </b><p align = "justify">It is a fast, powerful, flexible and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.</p></li>
   <li><b>Scikit Learn : </b><p align = "justify">Scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.</p></li>
-  <li>Maplotlib: </li>
-  <li>Seaborn :</li>
-  <li>Geopandas :</li>
-  <li>Descartes :</li>
-  <li>Joblib :</li>
+  <li><b>Maplotlib : </b><p align = "justify">It is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK.</p></li>
+  <li><b>Seaborn : </b><p align = "justify">Seaborn is a data visualization library built on top of matplotlib and closely integrated with pandas data structures in Python. Visualization is the central part of Seaborn which helps in exploration and understanding of data.</p></li>
+  <li><b>Geopandas : </b><p align = "justify">It is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. Geometric operations are performed by shapely. Geopandas further depends on fiona for file access and matplotlib for plotting.
+</p></li>
+  <li><b>Descartes : </b><p align = "justify">The Descartes library provides a nicer integration of Shapely geometry objects with Matplotlib. Here, you will see that descartes opens the fill and patch of matplotlib plots to work with the geometries from Shapely and saves you from typing them individually.</p></li>
+  <li><b>Joblib : </b><p align = "justify">It is a set of tools to provide lightweight pipelining in Python. In particular: transparent disk-caching of functions and lazy re-evaluation (memoize pattern).</p></li>
 </ul>
