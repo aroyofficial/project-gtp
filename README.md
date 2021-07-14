@@ -37,7 +37,7 @@
 
 <h3>Contacts</h3>
 <a align = "justify" href = "https://www.linkedin.com/in/mr-arijit-roy/" target="_blank" rel="noopener noreferrer">Arijit Roy @LinkedIn</a>
-| <a align = "justify" href = "https://www.linkedin.com/in/royarkaofficial/" target="_blank" rel="noopener noreferrer">Shayani Das @LinkedIn</a>
-| <a align = "justify" href = "https://www.linkedin.com/in/shayaniofficial/" target="_blank" rel="noopener noreferrer">Arkadeep Roy @LinkedIn</a>
+| <a align = "justify" href = "https://www.linkedin.com/in/shayaniofficial/" target="_blank" rel="noopener noreferrer">Shayani Das @LinkedIn</a>
+| <a align = "justify" href = "https://www.linkedin.com/in/royarkaofficial/" target="_blank" rel="noopener noreferrer">Arkadeep Roy @LinkedIn</a>
 | <a align = "justify" href = "https://www.linkedin.com/in/ankitadofficial/" target="_blank" rel="noopener noreferrer">Ankita Datta @LinkedIn</a>
 | <a align = "justify" href = "https://www.linkedin.com/in/soumoofficial/" target="_blank" rel="noopener noreferrer">Soumodip Ghosh @LinkedIn</a>
