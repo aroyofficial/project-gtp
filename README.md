@@ -1,4 +1,4 @@
-![alt text](https://github.com/aroyofficial/PROJECT-GTP/blob/main/Images/project_gtp_cover.png)
+![alt text](https://github.com/aroyofficial/project-gtp/blob/main/.images/projectGTP_img.png)
 # Documentation
 
 <h3>Introduction</h3>
