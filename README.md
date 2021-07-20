@@ -8,7 +8,7 @@
 <p align = "justify">We would like to express our gratitude towards Mr. Indranil Das for guiding us throughout the project. We are also thankful to express our kind gratitude towards Webskitters Academy for providing us resources; which helps us to build the project. This project was done under the supervision of Mr. Indranil Das. We are thankful to Mr. Sanjit Mazumder (Administrator, Impact Academy) for giving us additional guidance on this project. Last but not least we want to thank our College professors for guiding us in the right way.  If it is being implemented on a large scale and undertaken by the Government then we can hope this project will have a big impact on our society.</p>
 
 <h3>Team Members</h3>
-<img src="https://github.com/aroyofficial/PROJECT-GTP/blob/main/Images/team.png" alt="Team Members"/>
+<img src="https://github.com/aroyofficial/project-gtp/blob/main/.images/projectMembers.png" alt="Team Members"/>
 
 <h3>Tools and Resources</h3>
 <ul>
